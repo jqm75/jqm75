@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joaquim Pujol @jqm75
+- 👋 Hello World, I’m Joaquim Pujol @jqm75
 - 🔭 I’m currently working on reinventing myself.
 - 👀 I’m interested in Design, UX/UI, Coding, Video Games & Cooking!
 - 🌱 I’m currently learning a lot of new stuff.
