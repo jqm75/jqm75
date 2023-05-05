@@ -1,8 +1,8 @@
 ### Hello World 👋 ###
 
-- 😃 I’m Joaquim Pujol. Quim, for short @jqm75
+- 😃 I’m Joaquim Pujol. Quim, for short.
 - 🔭 I’m currently working on reinventing myself.
-- 👀 I’m interested in Design, UX/UI, Coding, Video Games & Drawing!
+- 👀 I’m interested in Design, UX/UI, Coding, Drawing, Video Games & see how my plants grow!
 - 🌱 I’m currently learning a lot of new stuff.
 
 <!--
