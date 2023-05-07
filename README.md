@@ -2,7 +2,7 @@
 
 - 😃 I’m Joaquim Pujol. Quim, for short.
 - 🔭 I’m currently working on reinventing myself.
-- 👀 I’m interested in Design, UX/UI, Coding, Drawing, Video Games & see how my plants grow!
+- 👀 I’m interested in Design, UX/UI, Coding, Drawing, Video Games & to ride a bike!
 - 🌱 I’m currently learning a lot of new stuff.
 
 <!--
