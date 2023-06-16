@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="left"><a href="https://angular-budget.vercel.app/welcome-page" target="_blank">BUDGET</a></td>
-    <td align="left"><a href="https://s8-angular-star-wars.vercel.app/" target="_blank">STARWARS STARSHIPS APP</a></td>
+    <td align="left"><a href="https://s8-angular-star-wars.vercel.app/" target="_blank">STARWARS APP</a></td>
   </tr>
 </table>
 
