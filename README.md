@@ -1,5 +1,6 @@
-<image src="https://media.licdn.com/dms/image/D4E16AQEqtlqcjZXU2w/profile-displaybackgroundimage-shrink_350_1400/0/1684428087012?e=1692230400&v=beta&t=6WLBSQc_YyU8DkCxKq2O6E2EYiZL0-50xYUtSOv55Y8" alt="Header">
-
+<!--
+<image src="https://media.licdn.com/dms/image/D4E16AQEqtlqcjZXU2w/profile-displaybackgroundimage-shrink_350_1400/0/1684428087012?e=1692230400&v=beta&t=6WLBSQc_YyU8DkCxKq2O6E2EYiZL0-50xYUtSOv55Y8" alt="Header"> 
+-->
 ### Hello World 👋 ###
 
 - 😃 I’m Joaquim Pujol. Quim, for short.
