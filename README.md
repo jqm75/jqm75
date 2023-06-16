@@ -1,3 +1,10 @@
+
+<img
+    src="[https://www.vectorlogo.zone/logos/angular/angular-icon.svg](https://drive.google.com/file/d/1GLIQ3UiNOTj_HFoOG_LExsFVI5_QJulC/view?usp=sharing)"
+    alt="angular"
+    width="100%"
+/>
+
 ### Hello World 👋 ###
 
 - 😃 I’m Joaquim Pujol. Quim, for short.
