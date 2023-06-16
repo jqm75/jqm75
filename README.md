@@ -7,11 +7,16 @@
 
 ### Projects
 
-| JOKES | SHORT TALE |
-|-------|------------|
-| [JOKES](https://jokes-xi.vercel.app/){:target="_blank"} | [SHORT TALE](https://s6-angular-intro.vercel.app/){:target="_blank"} |
-| BUDGET | STARWARS APP |
-| [BUDGET](https://angular-budget.vercel.app/welcome-page){:target="_blank"} | [STARWARS APP](https://s8-angular-star-wars.vercel.app/){:target="_blank"} |
+<table align="left">
+  <tr>
+    <td align="left"><a href="https://jokes-xi.vercel.app/" target="_blank">JOKES</a></td>
+    <td align="left"><a href="https://s6-angular-intro.vercel.app/" target="_blank">SHORT TALE</a></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="https://angular-budget.vercel.app/welcome-page" target="_blank">BUDGET</a></td>
+    <td align="left"><a href="https://s8-angular-star-wars.vercel.app/" target="_blank">STARWARS APP</a></td>
+  </tr>
+</table>
 
 <!--
 <image src="https://media.licdn.com/dms/image/D4E16AQEqtlqcjZXU2w/profile-displaybackgroundimage-shrink_350_1400/0/1684428087012?e=1692230400&v=beta&t=6WLBSQc_YyU8DkCxKq2O6E2EYiZL0-50xYUtSOv55Y8" alt="Header"> 
