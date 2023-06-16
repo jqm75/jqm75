@@ -1,4 +1,4 @@
-<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
+<image src="https://pbs.twimg.com/profile_banners/312007513/1684338604/1500x500" alt="Header">
 
 ### Hello World 👋 ###
 
