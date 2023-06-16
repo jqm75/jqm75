@@ -5,16 +5,16 @@
 - 👀 I’m interested in Design, UX/UI, Coding, Drawing, Video Games & to ride a bike!
 - 🌱 I’m currently learning a lot of new stuff, and I love it.
 
-## Projects
+### Projects
 
-<table align="center">
+<table align="left">
   <tr>
-    <td align="center"><a href="https://jokes-xi.vercel.app/">JOKES</a></td>
-    <td align="center"><a href="https://s6-angular-intro.vercel.app/">SHORT TALE</a></td>
+    <td align="left"><a href="https://jokes-xi.vercel.app/">JOKES</a></td>
+    <td align="left"><a href="https://s6-angular-intro.vercel.app/">SHORT TALE</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://angular-budget.vercel.app/welcome-page">BUDGET</a></td>
-    <td align="center"><a href="https://s8-angular-star-wars.vercel.app/">STARWARS STARSHIPS APP</a></td>
+    <td align="left"><a href="https://angular-budget.vercel.app/welcome-page">BUDGET</a></td>
+    <td align="left"><a href="https://s8-angular-star-wars.vercel.app/">STARWARS STARSHIPS APP</a></td>
   </tr>
 </table>
 
