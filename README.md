@@ -1,4 +1,4 @@
-### Hello World 👋 ###
+## Hello World 👋 ###
 
 - 😃 I’m Joaquim Pujol. Quim, for short.
 - 🔭 I’m currently working on reinventing myself.
